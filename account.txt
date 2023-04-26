@@ -1,0 +1,3 @@
+Current Balance: 34567.90
+Current int. rate: 9.5
+last transection date: 23 April 2023 7:34:45
